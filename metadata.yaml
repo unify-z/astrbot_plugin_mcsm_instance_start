@@ -1,0 +1,6 @@
+name: astrbot_plugin_mcsm_instance_start # 这是你的插件的唯一识别名。
+desc: 这是允许指定用户启动Mcsm中实例的一个插件
+help: 
+version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: unify-z # 作者
+repo: https://github.com/unify-z/astrbot_plugin_mcsm_instance_start # 插件的仓库地址
